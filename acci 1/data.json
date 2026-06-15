@@ -1,20 +1,44 @@
 [
   {
-    "id": "neon_city",
+    "id": "bg_01",
     "name": "Neon City",
     "thumbnail": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Cyberpunk_city_street_night_rain_202606142321_2.jpeg",
     "url": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Cyberpunk_city_street_night_rain_202606142321_2.jpeg"
   },
   {
-    "id": "floating_island",
+    "id": "bg_02",
     "name": "Floating Island",
-    "thumbnail": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Floating_island_village_in_sky_2.jpeg",
-    "url": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Floating_island_village_in_sky_2.jpeg"
+    "thumbnail": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Floating_island_village_in_sky_202606142321.jpeg",
+    "url": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Floating_island_village_in_sky_202606142321.jpeg"
   },
   {
-    "id": "glowing_tree",
+    "id": "bg_03",
+    "name": "Floating Island 2",
+    "thumbnail": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Floating_island_village_in_sky_202606142321_2.jpeg",
+    "url": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Floating_island_village_in_sky_202606142321_2.jpeg"
+  },
+  {
+    "id": "bg_04",
     "name": "Glowing Tree",
-    "thumbnail": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Glowing_tree_on_lake_202606142321_1.jpeg",
-    "url": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Glowing_tree_on_lake_202606142321_1.jpeg"
+    "thumbnail": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Glowing_tree_on_lake_202606142321.jpeg",
+    "url": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Glowing_tree_on_lake_202606142321.jpeg"
+  },
+  {
+    "id": "bg_05",
+    "name": "Glowing Tree 2",
+    "thumbnail": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Glowing_tree_on_lake_202606142321_2.jpeg",
+    "url": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Glowing_tree_on_lake_202606142321_2.jpeg"
+  },
+  {
+    "id": "bg_06",
+    "name": "Green Leaf",
+    "thumbnail": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Green_leaf_with_dew_drops_202606142321.jpeg",
+    "url": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Green_leaf_with_dew_drops_202606142321.jpeg"
+  },
+  {
+    "id": "bg_07",
+    "name": "Lionesses",
+    "thumbnail": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Two_lionesses_grooming_savanna_202606142321.jpeg",
+    "url": "https://raw.githubusercontent.com/thisarakawinda10-cloud/cyberkaviyafont/main/acci%201/Two_lionesses_grooming_savanna_202606142321.jpeg"
   }
 ]
