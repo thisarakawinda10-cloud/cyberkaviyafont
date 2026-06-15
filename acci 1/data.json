@@ -1,10 +1,14 @@
-{
-  "love_couples": [
-    "https://raw.githubusercontent.com/username/repo/main/images/love/img1.png",
-    "https://raw.githubusercontent.com/username/repo/main/images/love/img2.png"
-  ],
-  "nature": [
-    "https://raw.githubusercontent.com/username/repo/main/images/nature/img1.png",
-    "https://raw.githubusercontent.com/username/repo/main/images/nature/img2.png"
-  ]
-}
+[
+  {
+    "id": "neon_city",
+    "name": "Neon City",
+    "thumbnail": "https://github.com/thisarakawinda10-cloud/cyberkaviyafont/blob/main/acci%201/Cyberpunk_city_street_night_rain_202606142321_2.jpeg",
+    "url": "https://github.com/thisarakawinda10-cloud/cyberkaviyafont/blob/main/acci%201/Cyberpunk_city_street_night_rain_202606142321_2.jpeg"
+  },
+  {
+    "id": "space_nebula",
+    "name": "Space Nebula",
+    "thumbnail": "https://raw.githubusercontent.com/.../space_thumb.jpg",
+    "url": "https://raw.githubusercontent.com/.../space_full.jpg"
+  }
+]
