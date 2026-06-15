@@ -11,4 +11,10 @@
     "thumbnail": "https://raw.githubusercontent.com/.../space_thumb.jpg",
     "url": "https://raw.githubusercontent.com/.../space_full.jpg"
   }
+  {
+    "id": "space_nebula1",
+    "name": "Space Nebula",
+    "thumbnail": "https://raw.githubusercontent.com/.../space_thumb.jpg",
+    "url": "https://raw.githubusercontent.com/.../space_full.jpg"
+  }
 ]
